@@ -2,6 +2,7 @@
 #Ignore data files
 *.csv
 *.xlsx
+*.zip
 
 #Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
